@@ -1,4 +1,4 @@
-# UM Network URL Validation Service Reject Time
+# UM Network URL Validation Service Reject Time Window
 Extension to Ultimate Member for setting a network URL validation service reject time window for user registration email activation.
 
 ## UM Settings -> Advanced -> Developers -> "Network URL validation service reject time window"
