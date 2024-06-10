@@ -8,6 +8,13 @@ Extension to Ultimate Member for setting a network URL validation service reject
 4. Exclude the reject time window for these email domains - Enter registration user email domains one per line like company.com
 5. Include the reject time window for these email domains - Enter registration user email domains one per line like company.com and an empty text field equals to all user email domains.
 
+## Updates
+None
+
+## Translations or Text changes
+1. Use the "Say What?" plugin with text domain ultimate-member
+2. https://wordpress.org/plugins/say-what/
+
 ## Installation
 1. Install by downloading the plugin ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
 2. Activate the Plugin: Ultimate Member - Network URL validation service reject time window
